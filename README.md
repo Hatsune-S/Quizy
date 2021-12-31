@@ -53,7 +53,7 @@ The data should be saved by each users.
 
 
 #### Video Demo:  <https://hatsune-s.github.io/Quizy/index.html>
-#### Link of Quizy:  <URL HERE>
+#### Link of Quizy:  <https://youtu.be/LyjhmGmyl0I>
 
 
 [index.html]: index.html "index.html"
