@@ -52,7 +52,7 @@ This need to be improved by making users login to the pages. Also, the cookies m
 The data should be saved by each users.
 
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://hatsune-s.github.io/Quizy/index.html>
 #### Link of Quizy:  <URL HERE>
 
 
