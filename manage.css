@@ -1,0 +1,81 @@
+header ul {
+    display: flex;
+}
+header li {
+    text-align: center;
+}
+table{
+    border-radius: 10px;
+}
+th{
+    background-color: #72a69f;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 0 3px;
+}
+td {
+    text-align: center;
+    border: solid 1px #93b8ad;
+    border-radius: 3px;
+    padding: 10px;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+ol{
+    padding-left: 20px;
+    
+}
+#learning_data li+li {
+    border-top: solid 1px #93b8ad;
+}
+textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+textarea,input {
+    font-size: 16px;
+}
+input {
+    width: 200px;
+    margin: 5px 0;
+}
+button {
+    width: 195px;
+    display: block;
+    margin: 5px 3px;
+    padding: 10px;
+    background-color: #197050;
+    color: #ffffff;
+    border: none;
+}
+table button {
+    width: 80px;
+    border-radius: 5px;
+}
+.error{
+    visibility: hidden;
+    color: #ffffff;
+    background-color:#ff0000;
+    border-radius:10px;
+    padding: 10px;
+}
+#regist {
+    margin: 0 auto;
+}
+#edit {
+    margin: 0 auto;
+}
+#regist_data p {
+    font-size: 16px;
+    background-position: 0 1px;
+    margin-top: 30px;
+    padding-left: 22px;
+}
+#import_btn, #export_btn {
+    margin: 13px auto 10px auto;
+}
+
