@@ -52,8 +52,8 @@ This need to be improved by making users login to the pages. Also, the cookies m
 The data should be saved by each users.
 
 
-#### Video Demo:  <https://hatsune-s.github.io/Quizy/index.html>
-#### Link of Quizy:  <https://youtu.be/LyjhmGmyl0I>
+#### Link of Quizy:  <https://hatsune-s.github.io/Quizy/index.html>
+#### Video Demo:  <https://youtu.be/LyjhmGmyl0I>
 
 
 [index.html]: index.html "index.html"
